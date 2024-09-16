@@ -9,9 +9,6 @@ This project currently contains supplementary materials for the paper, especiall
 In detail, each pickle file in [dataset](dataset/) holds information related to its respective project such as CVEs, patches, and all versions of the patch-related functions.
 
 
-**Be noted that we will open source the study once the paper is accepted.**
-
-
 
 ## Dataset Usage
 
